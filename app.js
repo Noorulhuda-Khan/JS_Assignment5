@@ -1,36 +1,27 @@
-// CHAP 21-30 PRACTICE & ASSIGNMENT
+// // Q#01
 
-
-// CHAP21 
-
-// var cityToCheck= prompt("Enter Your City")
-
-// cityToCheck = cityToCheck.toLocaleLowerCase()
-// alert(cityToCheck)
-
-// var cleanestCities=["paris", "new york", "shanghai", "london", "makkah"];
-
-// for ( var i=0; i <=4; i++){
-// if (cityToCheck===cleanestCities[i]){
-
-//     alert("it is among cleanest cities")
+// // var date = new Date()
+// function now (){
+// var date = new Date
+//     alert (date)
 // }
 
+// now();
+
+
+
+// Q2
+
+// function greetings (){
+
+//     var firstName= prompt("enter first name")
+//     var lastName= prompt("enter last name")
+
+// alert("Hello "+firstName+" "+lastName)
+
 // }
 
-
-
-
-
-// CHAP 22
-
-// var cityToCheck = prompt("enter city")
-// cityToCheck = cityToCheck.toLocaleLowerCase();
-
-// var someChars = cityToCheck.slice(3)
-// console.log(someChars)
-
-
+// greetings()
 
 
 
